@@ -9,7 +9,7 @@ OTOBO Installation Tutorial
 This work is copyrighted by OTRS AG (https://otrs.com),
 Zimmersmühlenweg 11, 61440 Oberursel, Germany.
 
-Copyright © for modifications and amendments 2019-2022 ROTHER OSS GmbH
+Copyright © for modifications and amendments 2019-2025 ROTHER OSS GmbH
 (https://otobo.io), Oberwalting 31, 94339 Leiblfing, Germany
 
 Terms and Conditions OTRS:
